@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tugaiptv" name="TugaIPTV" version="1.0.1" provider-name="TugaIPTV">
+ <extension point="xbmc.addon.repository" name="TugaIPTV Add-on Repository">
+  <info compressed="false">https://github.com/ptiptv/new/addons.xml</info>
+  <checksum>https://github.com/ptiptv/new/addons.xml.md5</checksum>
+  <datadir zip="false">https://github.com/ptiptv/new/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>TugaIPTV</summary>
+  <description>TugaIPTV d</description>
+  <disclaimer></disclaimer>
+  <platform>all</platform>
+ </extension>
+</addon>
